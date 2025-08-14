@@ -2,7 +2,7 @@
   "name": "fll-quickstart-website",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://jackieb108.github.io/fflrobotics",
+
   "dependencies": {
     "lucide-react": "^0.263.1",
     "react": "^18.2.0",
