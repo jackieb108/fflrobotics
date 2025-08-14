@@ -25,8 +25,8 @@ const MechanicalPrinciples = () => {
       icon: ArrowUpDown,
       title: 'Linkages & Lifts',
       description: 'Create lifts and moving arms using scissor lifts, rack-and-pinion, or other linkages.',
-      videoUrl: 'https://www.youtube.com/watch?v=pUyq5MCOgmI',
-      videoTitle: 'LEGO Scissor Lift',
+      videoUrl: 'https://www.youtube.com/watch?v=Xvka5kRrXcg',
+      videoTitle: 'LEGO Scissor Lift Mechanism',
       color: 'from-green-500 to-emerald-500',
       bgColor: 'from-green-50 to-emerald-50'
     }

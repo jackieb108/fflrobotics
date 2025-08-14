@@ -86,8 +86,8 @@ src/
 ├── components/          # React components
 │   ├── Header.js       # Navigation header
 │   ├── Hero.js         # Hero section
-│   ├── InnovationChallenge.js
-│   ├── EngineeringProcess.js
+│   ├── InnovationProject.js
+
 │   ├── MechanicalPrinciples.js
 │   ├── Resources.js    # Resource links
 │   ├── Tips.js         # Team tips
@@ -116,7 +116,7 @@ The website can be deployed to any static hosting service:
 
 All content is based on the original `fll_quickstart_simplified.md` file, which includes:
 - Official FIRST LEGO League information
-- Engineering design process steps
+
 - Mechanical principles for LEGO robotics
 - Resource links and community guides
 - Tips for new FLL teams
@@ -145,3 +145,5 @@ For questions or issues:
 ---
 
 **Built with ❤️ for the FLL community**
+
+git push https://jackieb108:YOUR_PAT@github.com/jackieb108/fflrobotics.git main

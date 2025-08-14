@@ -16,7 +16,7 @@ const Footer = () => {
             </div>
             <p className="text-gray-300 mb-4 max-w-md">
               Your comprehensive guide to getting started with FIRST LEGO League robotics. 
-              Learn the engineering design process, mechanical principles, and team strategies.
+              Learn mechanical principles and team strategies.
             </p>
             <div className="flex items-center space-x-2 text-gray-400">
               <span>Made with</span>
@@ -36,17 +36,23 @@ const Footer = () => {
               </li>
               <li>
                 <a href="#challenge" className="text-gray-300 hover:text-primary-400 transition-colors duration-200">
-                  Innovation Challenge
+                  Innovation Project
                 </a>
               </li>
               <li>
-                <a href="#process" className="text-gray-300 hover:text-primary-400 transition-colors duration-200">
-                  Engineering Process
+                <a href="#unearthed" className="text-gray-300 hover:text-primary-400 transition-colors duration-200">
+                  UNEARTHED Challenge
                 </a>
               </li>
+
               <li>
                 <a href="#mechanical" className="text-gray-300 hover:text-primary-400 transition-colors duration-200">
                   Mechanical Principles
+                </a>
+              </li>
+              <li>
+                <a href="#about" className="text-gray-300 hover:text-primary-400 transition-colors duration-200">
+                  About
                 </a>
               </li>
             </ul>
@@ -103,7 +109,7 @@ const Footer = () => {
               <span>•</span>
               <span>FIRST LEGO League</span>
               <span>•</span>
-              <span>Engineering Design</span>
+              <span>Robotics</span>
             </div>
           </div>
         </div>

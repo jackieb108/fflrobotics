@@ -1,9 +1,11 @@
 import React, { useState } from 'react';
-import { Menu, X, Robot, BookOpen, Lightbulb, Wrench, Play, Users, ExternalLink, Calendar, Target, Zap } from 'lucide-react';
+import { Menu, X, Robot, BookOpen, Wrench, Users, ExternalLink, Calendar, Target, Zap } from 'lucide-react';
 import Header from './components/Header';
 import Hero from './components/Hero';
 import InnovationChallenge from './components/InnovationChallenge';
-import EngineeringProcess from './components/EngineeringProcess';
+import UnearthedChallenge from './components/UnearthedChallenge';
+import About from './components/About';
+
 import MechanicalPrinciples from './components/MechanicalPrinciples';
 import Resources from './components/Resources';
 import Tips from './components/Tips';
@@ -23,7 +25,8 @@ function App() {
       <main>
         <Hero />
         <InnovationChallenge />
-        <EngineeringProcess />
+        <UnearthedChallenge />
+        <About />
         <MechanicalPrinciples />
         <Resources />
         <Tips />
