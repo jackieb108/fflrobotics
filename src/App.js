@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Menu, X, Robot, BookOpen, Wrench, Users, ExternalLink, Calendar, Target, Zap } from 'lucide-react';
+
 import Header from './components/Header';
 import Hero from './components/Hero';
 import InnovationChallenge from './components/InnovationChallenge';

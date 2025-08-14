@@ -1,5 +1,5 @@
 import React from 'react';
-import { BookOpen, Users, Play, ExternalLink, Star, Globe, Video } from 'lucide-react';
+import { Users, Globe, Video, Star, ExternalLink } from 'lucide-react';
 
 const Resources = () => {
   const resources = [
